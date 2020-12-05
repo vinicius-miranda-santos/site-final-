@@ -1,0 +1,192 @@
+header {
+
+    background-image: linear-gradient(to top,rgb(0, 0, 0),rgb(185, 24, 24), rgb(128, 32, 32), rgb(2, 8, 14));
+    color: #f8f3ec;
+    border: #743c27;
+    text-align: center;
+    padding: 10px;
+    min-width: 700px;
+    max-width: 100%;
+    display: block;
+
+}
+
+
+
+body {
+ background-image: url(https://st2.depositphotos.com/3008028/5543/i/600/depositphotos_55436101-stock-photo-abstract-red-background.jpg);
+ padding: 8px;
+ min-width: 700px;
+ max-width: 100%;
+ background-repeat: no-repeat;
+ background-position: center center;
+ background-size: cover;
+ background-attachment: fixed;
+
+}
+
+main {
+    background-image: linear-gradient(to right, #e7c492, #f8e9d4, #f8e9d4, #f8e9d4, #f8e9d4, #e7c492);
+    color: #2f1004;
+    margin: 24px;
+    padding: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
+    min-width: 600px;
+    display: block;
+}
+
+
+#titulo {
+ text-align: center;
+ font-size: 2.5em;
+ color: darkgrey;
+ text-shadow: rgba(50, 50, 50, 0.77) 2px 2px 2px;
+ font-weight: bold;
+
+
+}
+
+nav ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+
+nav ul li{
+   
+       font-family: cursive;
+        font-size: 20px;
+        padding: 1em 1em;
+         border: 1px solid black;
+        transition: all ease 0.5s 0s;
+        
+}
+
+
+
+
+nav ul li:hover{
+
+            background-color: rgb(190, 47, 47);
+           color:white;
+            cursor: pointer;
+           font-size: 25px;
+          transform: scale(1.5); 
+          
+
+}
+
+
+section{
+
+    min-width: 600px; 
+    max-width: 900px;
+    margin-left: auto; 
+    margin-right: auto;
+    text-align: justify;
+
+
+
+}
+
+img{
+       margin-bottom: 300px;
+       width: 300px;
+    
+
+}
+
+h1 {
+
+    text-align: center;
+}
+
+#vida {
+    min-width: 600px; 
+    max-width: 900px;
+    margin-left: auto; 
+    margin-right: auto;
+    text-align: justify;
+}
+
+
+#principais{
+    color: #50200e;
+    font-size: 0.9em;    
+    text-align: justify;
+  
+}
+
+
+
+
+#imagem2{
+    float: left;
+    margin-right: 50px;
+    border: 2px solid #e4d2b9;
+}
+
+#jiraya {
+          text-align: left;
+
+}
+
+#imgm {
+ margin-right: 500px;
+    width: 30px;
+}
+
+
+#links {
+    text-decoration: none;
+    color: white;
+
+}
+
+#footer{
+    background-color: rgb(126, 26, 9);
+    padding: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: right;
+    font-size: 0.8em;
+    
+ }
+
+ 
+footer{
+    background-image: linear-gradient(to right, #e7c492, #f8e9d4, #f8e9d4, #f8e9d4, #f8e9d4, #e7c492);
+    margin: 24px;
+    padding:20px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+
+}
+
+#footer{
+    color:black;
+    padding: 6px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: right;
+    font-size: 0.8em;
+    margin-bottom: 20px;
+    text-align: -webkit-match-parent;
+ }
+
+ol{
+
+    list-style-type: none;
+}
+
+
+#links {
+               text-decoration: none;
+ 
+
+}
